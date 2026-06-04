@@ -20,7 +20,7 @@ A full-stack soccer booking/management web application built using React, Node.j
 
 ## How to Run
 Backend:
-bash
+```bash
 cd backend
 npm install
 npm run dev
