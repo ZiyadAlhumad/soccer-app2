@@ -32,6 +32,7 @@ A full-stack web application for football stadium reservation and management.
 ```text
 frontend/
 backend/
+```
 
 
 ## How to Run
