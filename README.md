@@ -1,3 +1,39 @@
+# Stadium Reservation App ⚽
+
+A full-stack web application for football stadium reservation and management.
+
+## Features
+
+* User registration and login
+* JWT authentication
+* Stadium management
+* Reservation system
+* Messaging system
+* Image uploads
+
+## Tech Stack
+
+### Frontend
+
+* React
+* JavaScript
+* CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* JWT
+
+## Project Structure
+
+```text
+frontend/
+backend/
+
+
 ## How to Run
 
 ### Backend
